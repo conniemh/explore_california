@@ -7,3 +7,10 @@ assets/photoshop/
 assets/videos/
 !assets/videos/tour_*.mp4
 
+#Things to include:
+#compiled source code
+#packages and compressed files
+#logs and databases
+#operating system generated files
+#user uploaded assets (images, pdfs, videos)
+
